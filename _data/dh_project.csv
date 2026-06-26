@@ -1,5 +1,5 @@
 objectid,title,file_name,writer_name,gender,location,longitude,latitude,publisher,publication_date,year,month,day,page_number,related,tone/emotion,subject,object_location,
-df_001,Already on the Way,df_1968-01-05.pdf,Chukuma Dj. Akaeme,Male,Port Harcourt,7.033611,4.824167,Daily Flash,1968_01_05,1968,January,5,2,,persuassion,cease-fire,/objects/df_001,
+df_001,Already on the Way,df_1968-01-05.pdf,Chukuma Dj. Akaeme,Male,Port Harcourt,7.033611,4.824167,Daily Flash,1968_01_05,1968,January,5,2,,persuassion,cease-fire,/objects/df_001.png,
 df_002,Worthy of Note,df_1968-01-05.pdf,D.N.C Nwaozor,Undecided,Port Harcourt,7.033611,4.824167,Daily Flash,1968_01_05,1968,January,5,2,,encouraging,conscience; morale,/objects/df_002,
 df_003,Peole's Leader,df_1968-01-10.pdf,Clem C. Chukukereze,Male,Port Harcourt,7.033611,4.824167,Daily Flash,1968_01_10,1968,January,10,2,,confidence,ojukwu's leadership;saboteurs; subversion,/objects/df_003,
 df_004,Thank You Gowon,df_1968-01-10.pdf,Caroline U. Nwafor,Female,Port Harcourt,7.033611,4.824167,Daily Flash,1968_01_10,1968,January,10,2,,excitement,recognition;currency,/objects/df_004,
