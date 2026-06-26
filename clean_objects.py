@@ -54,13 +54,13 @@ def clean_image(cv_img):
         cv_img = cv_img[y:y+h, x:x+w]
         gray = gray[y:y+h, x:x+w]
 
-    # 4. Maximize Text Contrast (White paper background, crisp black text)
+        # 4. Maximize Text Contrast (White paper background, crisp black text)
     # Rescale intensity values to clip faded colors
-    xp = [0, 60, 200, 255] # Maps gray text lower and light paper directly to pure white
-    fp = [0, 0, 255, 255]
+    xp = [0, 40, 200, 255]  # Input pixel intensity breakpoints
+    fp = [0, 0, 255, 255]   # Output pixel intensity mappings (forces darks to black, lights to white)
     x_lookup = np.interp(np.arange(256), xp, fp).astype('uint8')
     cleaned_gray = cv2.LUT(gray, x_lookup)
-    
+
     # Convert back to clean RGB format
     final_img = cv2.cvtColor(cleaned_gray, cv2.COLOR_GRAY2RGB)
     return final_img
