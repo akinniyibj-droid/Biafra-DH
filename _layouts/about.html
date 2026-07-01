@@ -20,16 +20,16 @@ layout: default
         padding: 4rem 0;
         margin-bottom: 1rem;
         {% if page.about-featured-image %}
-        background-image: url({{ jumboSrc }});
+        background-image: url('/objects/AA.jpg');
+        {% endif %}
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: {{ page.position | default: 'center' }};{% endif %}
+        background-position: {{ page.position | default: 'center' }};
     }
     {% if page.padding %}
     #about-title-box {
         padding-top: {{ page.padding }};
-        padding-bottom: 1em;
-    }
+        padding-bottom: 1em;}
     {%- endif -%}
     .about-title {
         padding-left: 15% !important;
@@ -79,7 +79,7 @@ layout: default
     </div>
     {% if page.credits == true %}
     <div id="credits-contents-wrapper">
-        {% include cb/credits.html %}
+        <!-- {% include cb/credits.html %} -->
     </div>
     {% endif %}
 </div>
