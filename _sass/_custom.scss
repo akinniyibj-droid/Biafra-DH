@@ -13,3 +13,20 @@
 .card {
     width: 100%;
 }
+/* Change global font family to Courier New */
+:root {
+  --bs-font-sans-serif: "Courier New", Courier, monospace !important;
+  --bs-body-font-family: var(--bs-font-sans-serif) !important;
+}
+
+/* Force headings and specific elements to use the new font */
+body, h1, h2, h3, h4, h5, h6, .card, table, .btn {
+  font-family: "Courier New", Courier, monospace !important;
+}
+/* Bold and increase the main homepage title text size */
+#home-banner h1.display-2 {
+  font-weight: 800 !important;
+  font-size: 6rem !important; /* Adjust this value up or down as needed */
+  letter-spacing: 0.5rem;
+  fontcolor: red; /* Change to your desired color */
+}

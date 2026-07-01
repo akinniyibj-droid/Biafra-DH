@@ -26,9 +26,9 @@ tagline: A Digital Collection of Letters to Editors in 3 Biafran Newspapers
 description: "ARCHIVING BIAFRA is a collection of letters to the editors published in three Biafra newspapers—Nigerian Outlook, Biafran Sun and Daily Flash—between 1966 and 1970. These letters cover the sentiments that followed the events such as the 1966 pogroms against Easterners in Northern Nigeria; declaration of independence, war itself; introduction of Biafran currency; recognition of Biafra by other countries; Soviet and British support for Nigeria.
 This collection invites users to play around, and filter by publisher, themes of letter, gender of writer, location of writer, year of publication."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: 
 
 ##########
 # COLLECTION SETTINGS
