@@ -5,18 +5,23 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: "/object/SS.jpg";
+about-featured-image: "/object/SS.jpg"
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
-heading: ABOUT
+heading: About Archiving Biafra
 # paragraph text below heading in featured image
-sub-heading: Archiving Biafra
+sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+# ARCHIVING BIAFRA
+
+ARCHIVING BIAFRA is a collection of letters to the editors published in three Biafra newspapers—Nigerian Outlook, Biafran Sun and Daily Flash—between 1966 and 1970. These letters cover the sentiments that followed the events such as the 1966 pogroms against Easterners in Northern Nigeria; declaration of independence, war itself; introduction of Biafran currency; recognition of Biafra by other countries; Soviet and British support for Nigeria.
+This collection invites users to play around, and filter by publisher, themes of letter, gender of writer, location of writer, year of publication.
+
 
 ## WHY BIAFRA?
 
@@ -27,4 +32,4 @@ The study of Biafra is not to open old wounds or retraumatize those who suffer d
 ## WHY LETTERS TO THE EDITORS?
 
 "Letters to editors (LE) are invaluable sources of writing the history of Biafra in the face of paucity of sources. More importantly, LE  fills a methodological gap for writing subaltern history of Biafra—Women, middleclass/ ordinary Biafrans— that is difficult to undertake with official, mostly elitist sources.
-Sulbaltern history of Biafra suffers from “double silencing.” On the one hand, there are limited sources on Biafra because the Nigerian government are het to declassified documents that shed light to the war. Biafran official intentionally destroyed documents on the eve of surrender for fear of punishment. On the other hand, the few available documents on the war in foreign archives are made up of high-level correspondence and government publications that overlook the subalterns. These letters give us insight into voices of Biafrans on important and seemingly ‘mundane issues’ offers going on in Biafra. Through these letters, we can understand the concerns of the writers, their visions of Biafra and how they think of the nation."
+Sulbaltern history of Biafra suffers from “double silencing.” On the one hand, there are limited sources on Biafra because the Nigerian government are het to declassified documents that shed light on the war. Biafran official intentionally destroyed documents on the eve of surrender for fear of punishment. On the other hand, the few available documents on the war in foreign archives are made up of high-level correspondence and government publications that overlook the subalterns. These letters give us insight into voices of Biafrans on important and seemingly ‘mundane issues’ offers going on in Biafra. Through these letters, we can understand the concerns of the writers, their visions of Biafra and how they think of the nation."
