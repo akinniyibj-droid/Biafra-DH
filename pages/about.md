@@ -18,20 +18,16 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## WHY BIAFRA?
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+"On January 15, 1970, during the acceptance of Biafra surrender, Maj. Gen. Yakubu Gowon declared that the “rising sun of Biafra has set forever, and the name Biafra has ceased to exist.” In fact, the use of the name “Biafra” was prohibited. While the people who identified as Biafrans between May 30, 1967 and January 15, 1970, were formerly Nigerians and after the surrender of Biafra became Nigerians, it has become difficult for the Easterners and Nigerians in general to forget the bloodiest war in their history just by a pronouncement in a speech. Biafra can only be suppressed in theory, it is an unfinished business that prompts people especially second and third generation Nigerians to ask questions that can be answered by revisiting this nation, Biafra. 
+On a more practical level, Biafra continue to pop up in different aspects of the Nigerian polity especially in politics. The 2023 general election in Nigeria for instance has been framed in relation to the grievances of the Biafran War; affecting friendship, trust and the peaceful co-existence that characterize a typical state. If the vestiges of Biafra are still ‘a cog in the wheel’ of Nigeria’s development, why then should we forget Biafra?
+The study of Biafra is not to open old wounds or retraumatize those who suffer during this war, it is an endeavor in historical reconstruction and nation building."
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## WHY LETTERS TO THE EDITORS?
+Letters to editors (LE) are invaluable sources of writing the history of Biafra in the face of paucity of sources. More importantly, LE  fills a methodological gap for writing subaltern history of Biafra—Women, middleclass/ ordinary Biafrans— that is difficult to undertake with official, mostly elitist sources.
+Sulbaltern history of Biafra suffers from “double silencing.” On the one hand, there are limited sources on Biafra because the Nigerian government are het to declassified documents that shed light to the war. Biafran official intentionally destroyed documents on the eve of surrender for fear of punishment. On the other hand, the few available documents on the war in foreign archives are made up of high-level correspondence and government publications that overlook the subalterns. These letters give us insight into voices of Biafrans on important and seemingly ‘mundane issues’ offers going on in Biafra. Through these letters, we can understand the concerns of the writers, their visions of Biafra and how they think of the nation.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
