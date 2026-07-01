@@ -18,12 +18,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: DH PROJECT
+title: "ARCHIVING BIAFRA"
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: A Digital Collection of Letters to Editors in 3 Biafran Newspapers
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "ARCHIVING BIAFRA is a collection of letters to the editors published in three Biafra newspapers—Nigerian Outlook, Biafran Sun and Daily Flash—between 1966 and 1970. These letters cover the sentiments that followed the events such as the 1966 pogroms against Easterners in Northern Nigeria; declaration of independence, war itself; introduction of Biafran currency; recognition of Biafra by other countries; Soviet and British support for Nigeria.
+This collection invites users to play around, and filter by publisher, themes of letter, gender of writer, location of writer, year of publication."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; history; inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -50,11 +51,11 @@ metadata: dh_project
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: ""
+organization-link: 
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-banner: 
+organization-logo-nav: 
 
 ##########
 # ROBOTS EXCLUDE
