@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
+about-featured-image:
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
@@ -29,7 +29,7 @@ Letters to editors (LE) are invaluable sources of writing the history of Biafra 
 Sulbaltern history of Biafra suffers from “double silencing.” On the one hand, there are limited sources on Biafra because the Nigerian government are het to declassified documents that shed light to the war. Biafran official intentionally destroyed documents on the eve of surrender for fear of punishment. On the other hand, the few available documents on the war in foreign archives are made up of high-level correspondence and government publications that overlook the subalterns. These letters give us insight into voices of Biafrans on important and seemingly ‘mundane issues’ offers going on in Biafra. Through these letters, we can understand the concerns of the writers, their visions of Biafra and how they think of the nation.
 
 
-<!--{% include feature/image.html objectid="demo_001" width="75" %} -->
+<!-- {% include feature/image.html objectid="demo_001" width="75" %} -->
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 <!-- {% include cb/about_the_about.md %} -->
