@@ -1,8 +1,8 @@
-field,display_name,btn,hidden,sort_name,facet_name
-date,Date,,,Date Created
-description,,,true,
-writer_name,Writer,,,
-subject,,true
-location,,true,,,Location Depicted
-identifier,,,true,Identifier
-gender,Gender,
+field,display_name,btn,hidden,sort_name,facet_name,link
+date,Date,,,Date Created,,
+description,,,true,,,
+writer_name,Writer,true,,,,
+subject,,,,,,true
+location,,,,,Location Depicted,
+identifier,,,true,Identifier,,
+gender,Gender,,,,,true

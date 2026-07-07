@@ -23,7 +23,7 @@
  * Initialize items array from Jekyll site data
  */
 var items = [
-    {% for item in items %}
+{% for item in items %}
     { {% for f in fields %}{% if item[f.field] %}{{ f.field | escape | jsonify }}:{{ item[f.field] | strip | jsonify }}, {%- endif -%}{%- endfor -%}
         {% if item.image_thumb %}"img": {{ item.image_thumb | relative_url | jsonify }}, {%- endif -%} 
         {% if item.display_template %}"display_template": {{ item.display_template | jsonify }}, {%- endif -%}
@@ -82,6 +82,13 @@ function makeCard(obj) {
         btns.forEach(btn => {
             if(btn.trim()) {
                 card += `<a class="btn btn-sm btn-secondary m-1 text-wrap" href="{{ page.url | relative_url }}#{{ f.field }}:${encodeURIComponent(btn.trim())}">${btn.trim()}</a>`;
+            }
+        });
+        {% elsif f.link == 'true' %}
+        const btns = obj[{{ f.field | jsonify }}].split(";");
+        btns.forEach(btn => {
+            if(btn.trim()) {
+                card += `<a class="m-1 text-wrap" href="{{ page.url | relative_url }}#{{ f.field }}:${encodeURIComponent(btn.trim())}">${btn.trim()}</a>`;
             }
         });
         {% else %}
