@@ -12,7 +12,7 @@
 
 {%- endcomment -%}
 <div class="card mb-3">
-    <div class="card mb-3 text-white" style="background-color: #000000; border-color: #333333;"></div>
+    
     <div class="card-body">
         <blockquote class="card-text">{{ site.description | newline_to_br }}</blockquote>
         {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}{% if about > 0 %}

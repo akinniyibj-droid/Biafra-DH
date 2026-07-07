@@ -19,7 +19,7 @@ padding: 6em
 ---
 ## ARCHIVING BIAFRA
 
-ARCHIVING BIAFRA is a digital collection of letters to the editors, published in select Biafran newspapers—Nigerian Outlook, Biafran Sun, and Daily Flash, spanning the years 1966 to 1970. These letters encapsulate public sentiments following pivotal events such as the 1966 pogroms against Easterners in Northern Nigeria; the Biafran declaration of independence; the ensuing conflict; the introduction of Biafran currency; international recognition of Biafra; and the support provided by Soviet and British entities for Nigeria.
+ARCHIVING BIAFRA is a digital collection of letters to the editors, published in select Biafran newspapers—*Nigerian Outlook*, *Biafran Sun*, and *Daily Flash*, spanning the years 1966 to 1970. These letters encapsulate public sentiments following pivotal events such as the 1966 pogroms against Easterners in Northern Nigeria; the Biafran declaration of independence; the ensuing conflict; the introduction of Biafran currency; international recognition of Biafra; and the support provided by Soviet and British entities for Nigeria.
 This collection invites users to play around and filter by publisher, subject, gender, location, and publication year. 
 
 
