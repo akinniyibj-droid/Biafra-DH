@@ -6,3 +6,4 @@ subject,,,,,,true
 location,,,,,Location Depicted,
 identifier,,,true,Identifier,,
 gender,Gender,,,,,true
+publisher,Publisher,true,,,,
