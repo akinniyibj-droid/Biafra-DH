@@ -74,6 +74,8 @@ organization-link:
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 organization-logo-banner: 
 organization-logo-nav: 
+# Optional footer image shown below the site description in the footer.
+footer-image: /objects/BAAA.jpg
 
 ##########
 # ROBOTS EXCLUDE
