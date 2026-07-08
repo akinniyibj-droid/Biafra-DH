@@ -6,6 +6,11 @@
 
             <h2 class="h4"><a href="{{ '/' | relative_url }}" class="text-white">{{ site.title }}</a></h2>
             <p class="text-white"><small>{{ site.description }}</small></p>
+            {% if site.footer-image %}
+            <div class="mt-3 mb-3 d-flex justify-content-start">
+                <img src="{{ site.footer-image | relative_url }}" alt="{{ site.title | escape }} footer image" class="img-fluid" style="max-height: 90px; width: auto; max-width: 100%;">
+            </div>
+            {% endif %}
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
