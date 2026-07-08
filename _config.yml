@@ -44,7 +44,7 @@ description: |
   Your courage is a flame that fires our ‘unity’!
 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: 
+keywords: National Identity; High Cost; Vigilance; Renaming Campaign
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Omobolanle Joseph Akinniyi
 
@@ -74,8 +74,6 @@ organization-link:
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 organization-logo-banner: 
 organization-logo-nav: 
-# Optional footer image shown below the site description in the footer.
-footer-image: /objects/BAAA.jpg
 
 ##########
 # ROBOTS EXCLUDE
