@@ -14,7 +14,7 @@
 <div class="card mb-3">
     
     <div class="desc-bg card-body">
-        <blockquote class="card-text">{{ site.description | markdownify }}</blockquote>
+        <blockquote class="card-text">{{ site.description | newline_to_br }}</blockquote>
         {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}{% if about > 0 %}
         <div class="text-center mt-3"> <!-- this centralizes the ENTER button-->
             <a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/browse.html' | relative_url }}">&laquo; ENTER &raquo;</a>
